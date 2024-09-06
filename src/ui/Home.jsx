@@ -6,10 +6,10 @@ function Home() {
   return (
     <div className="my-10 px-4 text-center sm:my-16">
       <h1 className="mb-8 text-xl font-semibold md:text-3xl">
-        The best pizza.
+        More than just dough and cheese,
         <br />
         <span className="text-sky-400">
-          Straight out of the oven, straight to you.
+          It’s a love story on a plate.
         </span>
       </h1>
       {username === "" ? (
